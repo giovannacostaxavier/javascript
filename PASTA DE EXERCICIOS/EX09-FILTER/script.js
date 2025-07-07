@@ -1,4 +1,4 @@
-const caixa = document.querySelector("#caixaCursos")
+/*const caixa = document.querySelector("#caixaCursos")
 const btnCursoSelecionado = document.querySelector("#btnCursoSelecionado")
 const btnRemoverCurso = document.querySelector("#btnRemoverCurso")
 const criarTudo = ["HTML", "CSS", "PHP", "React", "MySQL", "Java"]
@@ -44,7 +44,7 @@ btnRemoverCurso.addEventListener("click", () => {
         return
     }
     curso.remove()
-})
+})*/
 
 
 

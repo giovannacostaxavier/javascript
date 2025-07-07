@@ -1,5 +1,5 @@
 //CONTADOR 0 A 10
-for (let num1 = 0; num1 < 10; num1++) {
+/*for (let num1 = 0; num1 < 10; num1++) {
     console.log(num1);
     
     
@@ -35,7 +35,7 @@ for (const curso of cursos) {
 }
 
 const nome = {
-    nome: 'Carla',
+    nome: 'Giovanna',
     idade: 28,
     curso: 'Engenharia de Software'
 }
@@ -61,7 +61,7 @@ const cidades =['Buritirama','Brasilia','Porto']
     for (const i in cidades){
         console.log(`A cidade número ${Number(i) + 1} é a cidade de ${cidades[i]} `);
         
-    }
+    }*/
 
 
 

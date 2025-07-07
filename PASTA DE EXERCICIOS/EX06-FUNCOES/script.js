@@ -1,4 +1,4 @@
-function nomeProprio(nome) {
+/*function nomeProprio(nome) {
     return `Olá ${nome} !`
 }
 console.log(nomeProprio("Giovanna"));
@@ -59,7 +59,7 @@ console.log(soma(10,20));
 const dizerOi = () =>{
     return `Oi`
 }
-console.log(dizerOi())
+console.log(dizerOi());*/
 
 function* contador(){
     for (let i = 1; i <= 5 ; i++) {

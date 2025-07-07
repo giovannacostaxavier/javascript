@@ -1,4 +1,4 @@
-const produtos = [
+/*const produtos = [
     {nome: 'maquina de lavar', valor: 50.00, desconto: true},
     {nome: 'ferro de passar',  valor: 20.00, desconto: false},
     {nome: 'secador de cabelo', valor: 100.00, desconto: true},
@@ -26,11 +26,11 @@ const novosprodutos = produtos.map(produto =>{
     })
     console.log(dobro);
 
-    const nomes = ['Joao','Jose','Pedro','Carla']
+    const nomes = ['Koll','Finn','Pedro','Giovanna']
     const saudacao = nomes.map(saunome =>{
         return `Olá ${saunome}!`
     })
-    console.log(saudacao);
+    console.log(saudacao);*/
 
     const retangulo = [
         {largura:5, altura: 20},

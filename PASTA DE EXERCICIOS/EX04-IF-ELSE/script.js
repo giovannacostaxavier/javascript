@@ -1,4 +1,4 @@
-//MAIOR DE IDADE OU MENOR DE IDADE
+/*//MAIOR DE IDADE OU MENOR DE IDADE
 
 let idade = 5
 if (idade >= 18) {
@@ -30,6 +30,6 @@ if (MIdade >= 18) {
 } else {
     console.log("Você ainda não tem idade para ir a festas!");
     
-}
+}*/
 
 

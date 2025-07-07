@@ -1,4 +1,4 @@
-let dia = 5
+/*let dia = 5
 
 switch (dia){
 case 1:
@@ -80,6 +80,6 @@ switch (nota){
         default:
             console.log("Nota Inválida");
             break           
-}
+}*/
 
 
