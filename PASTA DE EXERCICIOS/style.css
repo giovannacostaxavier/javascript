@@ -58,3 +58,8 @@ input[type="submit"], input[type="reset"]{
 #bimc{
     width: 200px;
 }
+#aviso{
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 1.3em;
+}
