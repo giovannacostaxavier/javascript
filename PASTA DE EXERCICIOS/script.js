@@ -1,0 +1,5 @@
+const formulario = document.querySelector('#form')
+const peso = document.querySelector('#cxpeso')
+const altura = document.querySelector('#cxaltura')
+const enviar = document.querySelector('#cxenviar')
+const aviso = document.querySelector('#aviso')
