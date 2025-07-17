@@ -1,0 +1,7 @@
+const formulario = document.querySelector('form')
+const caixa1 = document.querySelector('#nota1')
+const caixa2 = document.querySelector('#nota2')
+const botaoenviar = document.querySelector('#btnEnviar')
+const botaolimpar = document.querySelector('#btnLimpar')
+const caixatexto = document.querySelector('#cxtexto')
+const aviso = document.querySelector('#aviso')
