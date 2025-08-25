@@ -12,4 +12,4 @@ let verificar = idade >= 18 ? "Maior de idade" : "Menor de idade"
 const firstName = "Giovanna"
 const lastName = "Xavier"
 
-let nomeCompleto = 
+
